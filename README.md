@@ -1,1 +1,2 @@
 # laundry-website
+index.html
